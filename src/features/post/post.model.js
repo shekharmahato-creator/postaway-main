@@ -52,6 +52,6 @@ export default class PostModel {
   }
 }
 let posts = [
-  new PostModel(1, "first-post-user1", "one.jpg", 1, "user1"),
-  new PostModel(2, "second-post-user1", "two.jpg", 1, "user1"),
+  new PostModel(1, "first-post-raju", "picture.jpg", 1, "rahul"),
+  new PostModel(2, "second-post-dinesh", "beach.jpg", 1, "rahul"),
 ];

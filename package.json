@@ -2,16 +2,16 @@
   "name": "postway",
   "version": "1.0.0",
   "description": "Implementation of Backend REST API structure for social media platform",
-  "homepage": "https://github.com/prathameshcode360/Postway#readme",
+  "homepage": "https://github.com/shekharmahato-creator/postaway-main.git",
   "bugs": {
-    "url": "https://github.com/prathameshcode360/Postway/issues"
+    "url": "https://github.com/shekharmahato-creator/postaway-main.git"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prathameshcode360/Postway.git"
+    "url": "git+https://github.com/shekharmahato-creator/postaway-main.git"
   },
-  "license": "ISC",
-  "author": "Prathamesh Mhatugade",
+  "license": "MIT",
+  "author": "Shekhar Mahato",
   "type": "module",
   "main": "index.js",
   "scripts": {
